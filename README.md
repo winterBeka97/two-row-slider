@@ -1,9 +1,9 @@
-#Slider
+# Slider
 
-##The grid
+## The grid
 
 The grid system is used for the layout. 
 
-##Sass
+## Sass
 
 Sass was used for the styling of the page.
