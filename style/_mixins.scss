@@ -1,0 +1,17 @@
+@import 'variables';
+
+@mixin arrow{
+	aspect-ratio: 1 / 1;
+
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: $background-color-1;
+	border-radius: $b-radius;
+	border: $border-thickness solid $color-4;
+
+	&:hover {
+		background-color: $background-color-1;
+		border: $border-thickness solid $color-2;
+		cursor: pointer;
+	}
+}
