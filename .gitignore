@@ -1,5 +1,8 @@
 #ignore node modlues
 node_modules/
-#ignore the file with tastks that are yet to be done
 
+#ignore the file with tastks that are yet to be done
 /toDo.md
+
+#ignore the bash script
+/keyAgentUpdate.sh
