@@ -12,4 +12,4 @@ Sass was used for the styling of the page.
 Vite is used for making a local dev server and faster build up.
 
 ## Preview of the page
-![alt text](https://github.com/winterBeka97/two-row-slider/img/two-row-slider.png?raw=true)
+![alt text](https://github.com/winterBeka97/two-row-slider/blob/master/img/two-row-slider.PNG?raw=true)
